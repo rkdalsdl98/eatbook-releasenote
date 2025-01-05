@@ -1,10 +1,10 @@
 <div>
   <img width="125" height="125" src="https://github.com/user-attachments/assets/3d0a2b45-d5a8-40e0-b055-5caf6e9d2e36">  
-  <h1>Eatbook (책 먹는 여우)</br></br>정식 버전 릴리즈v1.1.14 </h1>
+  <h1>Eatbook (책 먹는 여우)</br></br>정식 버전 릴리즈v1.1.15</h1>
 </div>  
 
 <div>
-  <a href="https://github.com/ktb-eatbook/app"><img src="https://img.shields.io/badge/Platform-Android%2B-green.svg?style=flat"></a> <a href="https://android-arsenal.com/api?level=33#l21"><img src="https://img.shields.io/badge/API-21%2B-brightgreen.svg?style=flat"></a> <a href="https://github.com/ktb-eatbook/app"><img src="https://img.shields.io/badge/Google Play-Download%2B-orange.svg?style=flat"></a>
+  <a href="https://github.com/ktb-eatbook/app"><img src="https://img.shields.io/badge/Platform-Android%2B-green.svg?style=flat"></a> <a href="https://android-arsenal.com/api?level=33#l21"><img src="https://img.shields.io/badge/API-21%2B-brightgreen.svg?style=flat"></a> <a href="https://play.google.com/store/apps/details?id=com.eatbook.eatbook_app&pli=1"><img src="https://img.shields.io/badge/Google Play-Download%2B-orange.svg?style=flat"></a>
 </div>  
 
 ## 서비스 소개  
@@ -23,20 +23,8 @@ AI 기반의 음성합성 기술을 이용하여 소설의 맥락, 분위기에 
 
 ## 릴리즈 노트  
 
-### 소설 관련  
-
-+ 읽은 에피소드가 표시 됩니다.  
-+ 북마크 시 표기가 제대로 되지 않던 점이 수정됩니다.  
-+ 댓글 조회, 추가, 삭제가 가능해집니다.  
-+ 댓글을 작성한 사람의 이름과 프로필 이미지가 표시됩니다.  
-+ 공백 입력 시 댓글이 등록되지 않습니다.  
-+ 댓글의 UI가 개선되었습니다.  
-
-
-### 유저 관련  
-+ 로그인 이후, 일정 시간 동안 앱을 완전히 종료후 재 실행해도 자동으로 로그인이 되도록 변경되었습니다.  
-+ 마이 페이지에서 회원탈퇴 기능이 추가됩니다.  
-
 ### 이용 관련  
-+ 로그인 페이지 및 마이 페이지에 개인정보처리방침을 볼 수 있는 버튼이 추가 되었습니다.  
-+ 마이 페이지에서 오픈소스 라이선스 관련 항목을 볼 수 있습니다.  
++ 홈 화면 UI가 개선 됩니다.  
++ 검색 화면 UI가 개선 됩니다.  
++ 스토어에 개시되는 이미지가 변경 됩니다.  
++ 스토어에 표기되는 설명이 변경 됩니다.  
